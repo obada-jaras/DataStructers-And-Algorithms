@@ -1,0 +1,178 @@
+.root{
+	-style1-basicColor: #ff7171;
+	-style1-basicColorHover: #f78a8a;
+	-style1-secondaryColor: #32a2b0;
+	-style1-secondaryColorHover: #9fd8df;
+	-style1-gray: #bdbdbd;
+	-style1-noteColor: #ff884b;
+}
+
+
+
+
+
+
+.button {	
+	-fx-font-weight: bold;
+		
+	-fx-pref-width: 150px;
+	-fx-pref-height: 30px;
+	-fx-background-radius: 10px;
+}
+
+
+
+
+.disabled-button {
+	-fx-background-color: -style1-gray;
+	-fx-text-fill: white;
+}
+
+
+.enabled-button {
+	-fx-background-color: -style1-basicColor;
+	-fx-text-fill: white;
+}
+
+.enabled-button:hover {
+	-fx-background-color: -style1-basicColorHover;
+	-fx-cursor: hand;
+}
+
+
+
+.exit-button {
+	-fx-text-fill: white;
+	-fx-background-color: -style1-secondaryColor;
+}
+
+.exit-button:hover {
+	-fx-background-color: -style1-secondaryColorHover;
+	-fx-cursor: hand;
+}
+
+
+.toggleButton{
+	-fx-background-color: none;
+	-fx-text-fill: -style1-secondaryColor;
+	-fx-font-weight: bold;
+	-fx-font-size: 82%;
+	
+	-fx-pref-width: 80px;
+	-fx-pref-height: 30px;
+	-fx-background-radius: 10px;
+	-fx-border-color: -style1-secondaryColor;
+	-fx-border-radius: 10px;
+}
+
+
+.toggleButton:hover{
+	-fx-background-color: #d7f8fc;
+	-fx-cursor: hand;
+}
+
+.toggleButton:selected {
+	-fx-background-color: -style1-secondaryColor;
+	-fx-text-fill: white;
+}
+
+
+
+
+.line {
+	-fx-stroke: -style1-basicColor;
+	-fx-stroke-width: 2px;
+}
+
+
+
+
+.text-field {
+	-fx-focus-color: -fx-control-inner-background;
+	-fx-faint-focus-color: -fx-control-inner-background;
+
+    -fx-min-width: 165px;
+    -fx-min-height: 30px;
+	-fx-border-color: -style1-gray;
+	-fx-background-radius: 10px;
+	-fx-border-radius: 10px;
+}
+
+
+
+.text-field:focused {
+	-fx-border-color: -style1-secondaryColor;
+	-fx-background-radius: 10px;
+	-fx-border-radius: 10px;
+}
+
+
+.note-label {
+	-fx-text-fill: -style1-noteColor;
+}
+
+
+
+
+.exitPage-button {
+	-fx-background-color: -style1-secondaryColor;
+	-fx-text-fill: white;
+	-fx-font-size: 88%;
+	-fx-font-weight: bold;
+	-fx-background-radius: 10px;
+	-fx-pref-width: 180px;
+}
+
+
+.exitPage-button:hover {
+	-fx-background-color: -style1-secondaryColorHover;
+	-fx-cursor: hand;
+}
+
+
+.files-textField, .files-textField:focused {
+	-fx-max-width: 65px;
+	-fx-min-width: 65px;
+    -fx-min-height: 20px;
+    -fx-max-height: 20px;
+    -fx-background-radius: 8px;
+	-fx-border-radius: 8px;
+}
+
+
+.deleteFile-button {
+	-fx-pref-width: 50px;
+	-fx-min-height: 20px;
+	-fx-max-height: 20px;
+	-fx-background-radius: 8px;
+	-fx-font-weight: bold;
+	-fx-font-size: 75%;
+	-fx-background-color: -style1-secondaryColor;
+}
+
+
+.deleteFile-button:hover {
+	-fx-background-color: -style1-secondaryColorHover;
+}
+
+
+.fileName-label {
+	-fx-underline: true;
+}
+
+
+.fileName-label:hover {
+	-fx-cursor: hand;
+}
+
+
+.deleteAll-button {
+	-fx-pref-width: 100px;
+	-fx-background-color: -style1-secondaryColor;
+	-fx-max-height: 10px;
+	-fx-translate-y: -12px;
+}
+
+.deleteAll-button:hover {
+	-fx-background-color: -style1-secondaryColorHover;
+}
