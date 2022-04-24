@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="756.0" prefWidth="900.0" style="-fx-background-color: #EEEEEE;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.PWFController">
+   <children>
+      <Label alignment="CENTER" layoutX="393.0" layoutY="111.0" prefHeight="48.0" prefWidth="109.0" text="With Freind" textAlignment="CENTER">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="284.0" layoutY="8.0" prefHeight="127.0" prefWidth="331.0" text="Tic-Tac-Toe" textAlignment="CENTER" textFill="#ff7171" textOverrun="CLIP" underline="true">
+         <font>
+            <Font name="Arial Bold" size="57.0" />
+         </font>
+      </Label>
+      <AnchorPane fx:id="pane" layoutX="222.0" layoutY="224.0" maxHeight="450.0" maxWidth="450.0" minHeight="450.0" minWidth="450.0" prefHeight="450.0" prefWidth="450.0">
+         <children>
+            <Button fx:id="BTN1" alignment="CENTER" layoutY="1.0" mnemonicParsing="false" onAction="#BTN1" prefHeight="150.0" prefWidth="150.0" style="-fx-background-color: #EEEEEE; -fx-border-color: #ff7171; -fx-border-width: 5px;" textFill="#e69a22">
+               <font>
+                  <Font name="System Bold" size="65.0" />
+               </font>
+            </Button>
+            <Button fx:id="BTN2" alignment="CENTER" layoutX="150.0" layoutY="1.0" mnemonicParsing="false" onAction="#BTN2" prefHeight="150.0" prefWidth="150.0" style="-fx-background-color: #EEEEEE; -fx-border-color: #ff7171; -fx-border-width: 5px;" textFill="#e69a22">
+               <font>
+                  <Font name="System Bold" size="65.0" />
+               </font>
+            </Button>
+            <Button fx:id="BTN3" alignment="CENTER" layoutX="300.0" layoutY="1.0" mnemonicParsing="false" onAction="#BTN3" prefHeight="150.0" prefWidth="150.0" style="-fx-background-color: #EEEEEE; -fx-border-color: #ff7171; -fx-border-width: 5px;" textFill="#e69a22">
+               <font>
+                  <Font name="System Bold" size="65.0" />
+               </font>
+            </Button>
+            <Button fx:id="BTN4" alignment="CENTER" layoutY="151.0" mnemonicParsing="false" onAction="#BTN4" prefHeight="150.0" prefWidth="150.0" style="-fx-background-color: #EEEEEE; -fx-border-color: #ff7171; -fx-border-width: 5px;" textFill="#e69a22">
+               <font>
+                  <Font name="System Bold" size="65.0" />
+               </font>
+            </Button>
+            <Button fx:id="BTN5" alignment="CENTER" layoutX="150.0" layoutY="150.0" mnemonicParsing="false" onAction="#BTN5" prefHeight="150.0" prefWidth="150.0" style="-fx-background-color: #EEEEEE; -fx-border-color: #ff7171; -fx-border-width: 5px;" textFill="#e69a22">
+               <font>
+                  <Font name="System Bold" size="65.0" />
+               </font>
+            </Button>
+            <Button fx:id="BTN6" alignment="CENTER" layoutX="300.0" layoutY="150.0" mnemonicParsing="false" onAction="#BTN6" prefHeight="150.0" prefWidth="150.0" style="-fx-background-color: #EEEEEE; -fx-border-color: #ff7171; -fx-border-width: 5px;" textFill="#e69a22">
+               <font>
+                  <Font name="System Bold" size="65.0" />
+               </font>
+            </Button>
+            <Button fx:id="BTN7" alignment="CENTER" layoutY="299.0" mnemonicParsing="false" onAction="#BTN7" prefHeight="150.0" prefWidth="150.0" style="-fx-background-color: #EEEEEE; -fx-border-color: #ff7171; -fx-border-width: 5px;" textFill="#e69a22">
+               <font>
+                  <Font name="System Bold" size="65.0" />
+               </font>
+            </Button>
+            <Button fx:id="BTN8" alignment="CENTER" layoutX="150.0" layoutY="299.0" mnemonicParsing="false" onAction="#BTN8" prefHeight="150.0" prefWidth="150.0" style="-fx-background-color: #EEEEEE; -fx-border-color: #ff7171; -fx-border-width: 5px;" textFill="#e69a22">
+               <font>
+                  <Font name="System Bold" size="65.0" />
+               </font>
+            </Button>
+            <Button fx:id="BTN9" alignment="CENTER" layoutX="300.0" layoutY="299.0" mnemonicParsing="false" onAction="#BTN9" prefHeight="150.0" prefWidth="150.0" style="-fx-background-color: #EEEEEE; -fx-border-color: #ff7171; -fx-border-width: 5px;" textFill="#e69a22">
+               <font>
+                  <Font name="System Bold" size="65.0" />
+               </font>
+            </Button>
+         </children>
+      </AnchorPane>
+      <Button layoutX="63.0" layoutY="691.0" mnemonicParsing="false" onAction="#back" style="-fx-background-color: #ff7171; -fx-background-radius: 10px;" text="Back" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Label fx:id="LBL_playerTurn" alignment="CENTER" layoutX="358.0" layoutY="178.0" text="Player1 Turn (X)" textFill="#e69a22">
+         <font>
+            <Font name="System Bold Italic" size="25.0" />
+         </font>
+      </Label>
+      <Button layoutX="399.0" layoutY="690.0" mnemonicParsing="false" onAction="#playAgain" style="-fx-background-color: #e69a22; -fx-background-radius: 10px;" text="Play Again" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
