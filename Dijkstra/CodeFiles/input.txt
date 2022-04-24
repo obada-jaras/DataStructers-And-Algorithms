@@ -1,0 +1,591 @@
+102 488
+Agrigento,13.3896990,37.7290120
+Alessandria,8.5615315,44.8126878
+Ancona,13.0630877,43.5811867
+Arezzo,11.6856399,43.5608313
+Ascoli Piceno,13.4323005,42.8891034
+Asti,8.0077123,44.9042870
+Avellino,15.0085552,41.0164075
+Bari,16.7268148,41.0062298
+Barletta-Andria-Trani,16.1161936,41.2301391
+Belluno,11.9980508,46.4411190
+Benevento,14.6535429,41.2912053
+Bergamo,9.5839670,45.8406350
+Biella,7.9083089,45.6269034
+Bologna,11.2880261,44.4564684
+Brescia,10.1945882,45.6269034
+Brindisi,17.6924483,40.6805436
+Cagliari,8.8313409,39.3574432
+Caltanissetta,14.0855232,37.4949251
+Campobasso,14.6677434,41.6983131
+Caserta,14.0429217,41.2199614
+Catania,14.9233522,37.8002559
+Catanzaro,16.4428050,39.0521124
+Chieti,14.3127311,42.1155986
+Como,8.9875463,45.8711681
+Cosenza,16.2581986,39.6525964
+Cremona,9.8395759,45.2299733
+Crotone,16.9256217,39.3065548
+Cuneo,7.4254921,44.4768238
+Enna,14.2985306,37.8307890
+Fermo,13.6169069,43.1639012
+Ferrara,11.8134444,44.8228655
+Foggia,15.4771715,41.5151146
+ForlÃ¬-Cesena,11.9128478,44.0595383
+Frosinone,13.4323005,41.6576023
+Genoa,8.9733458,44.4666461
+Grosseto,11.0892192,42.8178596
+Imperia,7.6384995,43.9577614
+Isernia,14.2133276,41.6779577
+L'Aquila,13.5317040,42.0545324
+La Spezia,9.5839670,44.2325592
+Latina,12.9778848,41.4540484
+Lecce,18.2036660,40.2530804
+Lecco,9.2573557,46.0340112
+Livorno,10.5069990,43.0824796
+Lodi,9.4703631,45.2503287
+Lucca,10.3365931,44.0086499
+Macerata,13.0914887,43.1639012
+Mantua,10.6490040,45.1485517
+Massa-Carrara,9.8963778,44.2834476
+Matera,16.4570055,40.5278782
+Messina,15.1363596,38.2480745
+Metropolitan City of Florence,11.2454246,43.8050960
+Milan,8.9307443,45.4844156
+Modena,10.7200064,44.4259354
+Monza and Brianza,9.1437517,45.6777918
+Napoli,14.3411320,40.9248083
+Novara,8.3911256,45.5658372
+Nuoro,9.2005537,40.2530804
+Oristano,8.5899325,40.0597042
+Padova,11.6856399,45.3317502
+Palermo,13.3612981,38.1157645
+Parma,9.9105783,44.6600223
+Pavia,8.9449448,45.1383740
+Perugia,12.4098650,43.1028350
+Pesaro e Urbino,12.6086719,43.6422528
+Pescara,13.8441148,42.3700410
+Piacenza,9.4561626,44.8941093
+Pisa,10.5354000,43.5099428
+Pistoia,10.7058059,43.9475837
+Potenza,15.8179833,40.6601882
+Prato,10.9756153,43.9984722
+Ragusa,14.5825404,37.2099496
+Ravenna,11.9696498,44.4361131
+Reggio di Calabria,15.9315872,38.4109176
+Reggio nell'Emilia,10.4359966,44.5582454
+Rieti,12.7790779,42.3395079
+Rimini,12.3530631,43.9577614
+Roma Capitale,12.4950680,41.9018670
+Rovigo,11.4726325,45.0467748
+Salerno,15.2783646,40.4668120
+Sassari,8.7887394,40.7721429
+Savona,8.1213163,44.3241584
+Siena,11.3732291,43.2555004
+Siracusa,14.9659537,37.3524373
+Sondrio,9.5839670,46.2680982
+South Tyrol,11.3448281,46.8482268
+Sud Sardegna,8.7745389,39.6118856
+Taranto,16.9398222,40.6805436
+Teramo,13.6311074,42.6651941
+Terni,12.4524665,42.6143057
+Torino,7.2550862,45.1281963
+Trapani,12.6370729,38.0648760
+Trento,10.7768084,46.1663212
+Treviso,12.0974542,45.8406350
+Varese,8.5757320,45.8711681
+Venezia,12.5234690,45.6269034
+Verbano-Cusio-Ossola,8.2065192,46.1459658
+Vercelli,8.1071158,45.3826387
+Verona,10.9188133,45.4335272
+Vibo Valentia,16.1161936,38.8282031
+Vicenza,11.3306276,45.7490357
+Viterbo,11.8560458,42.4209294
+South Tyrol,Belluno
+South Tyrol,Trento
+South Tyrol,Sondrio
+Belluno,South Tyrol
+Belluno,Trento
+Belluno,Vicenza
+Belluno,Treviso
+Trento,South Tyrol
+Trento,Belluno
+Trento,Brescia
+Trento,Sondrio
+Trento,Verona
+Trento,Vicenza
+Sondrio,South Tyrol
+Sondrio,Trento
+Sondrio,Como
+Sondrio,Lecco
+Sondrio,Bergamo
+Vicenza,Belluno
+Vicenza,Treviso
+Vicenza,Padova
+Vicenza,Trento
+Vicenza,Verona
+Treviso,Belluno
+Treviso,Vicenza
+Treviso,Padova
+Treviso,Venezia
+Padova,Treviso
+Padova,Venezia
+Padova,Vicenza
+Padova,Verona
+Padova,Rovigo
+Venezia,Treviso
+Venezia,Padova
+Venezia,Rovigo
+Rovigo,Venezia
+Rovigo,Padova
+Rovigo,Verona
+Rovigo,Ferrara
+Rovigo,Mantua
+Verona,Padova
+Verona,Trento
+Verona,Vicenza
+Verona,Brescia
+Verona,Mantua
+Verona,Rovigo
+Brescia,Trento
+Brescia,Verona
+Brescia,Bergamo
+Brescia,Cremona
+Brescia,Mantua
+Mantua,Verona
+Mantua,Rovigo
+Mantua,Brescia
+Mantua,Cremona
+Mantua,Parma
+Mantua,Reggio nell'Emilia
+Mantua,Modena
+Mantua,Ferrara
+Ferrara,Rovigo
+Ferrara,Mantua
+Ferrara,Modena
+Ferrara,Bologna
+Ferrara,Ravenna
+Como,Sondrio
+Como,Lecco
+Como,Monza and Brianza
+Como,Varese
+Como,Milan
+Lecco,Sondrio
+Lecco,Bergamo
+Lecco,Como
+Lecco,Monza and Brianza
+Bergamo,Sondrio
+Bergamo,Lecco
+Bergamo,Monza and Brianza
+Bergamo,Milan
+Bergamo,Cremona
+Bergamo,Brescia
+Monza and Brianza,Bergamo
+Monza and Brianza,Lecco
+Monza and Brianza,Como
+Monza and Brianza,Milan
+Monza and Brianza,Varese
+Milan,Bergamo
+Milan,Como
+Milan,Monza and Brianza
+Milan,Varese
+Milan,Novara
+Milan,Lodi
+Milan,Cremona
+Milan,Pavia
+Cremona,Bergamo
+Cremona,Milan
+Cremona,Brescia
+Cremona,Lodi
+Cremona,Mantua
+Cremona,Parma
+Cremona,Piacenza
+Varese,Como
+Varese,Monza and Brianza
+Varese,Verbano-Cusio-Ossola
+Varese,Novara
+Varese,Milan
+Verbano-Cusio-Ossola,Varese
+Verbano-Cusio-Ossola,Vercelli
+Verbano-Cusio-Ossola,Novara
+Novara,Varese
+Novara,Verbano-Cusio-Ossola
+Novara,Vercelli
+Novara,Milan
+Novara,Pavia
+Vercelli,Verbano-Cusio-Ossola
+Vercelli,Biella
+Vercelli,Novara
+Vercelli,Torino
+Vercelli,Asti
+Vercelli,Alessandria
+Vercelli,Pavia
+Biella,Vercelli
+Biella,Torino
+Torino,Vercelli
+Torino,Biella
+Torino,Cuneo
+Torino,Asti
+Torino,Alessandria
+Asti,Vercelli
+Asti,Torino
+Asti,Cuneo
+Asti,Alessandria
+Asti,Savona
+Alessandria,Vercelli
+Alessandria,Torino
+Alessandria,Asti
+Alessandria,Cuneo
+Alessandria,Savona
+Alessandria,Genoa
+Alessandria,Piacenza
+Alessandria,Pavia
+Pavia,Vercelli
+Pavia,Novara
+Pavia,Milan
+Pavia,Lodi
+Pavia,Alessandria
+Pavia,Piacenza
+Cuneo,Torino
+Cuneo,Asti
+Cuneo,Imperia
+Cuneo,Savona
+Cuneo,Alessandria
+Lodi,Milan
+Lodi,Pavia
+Lodi,Piacenza
+Lodi,Cremona
+Piacenza,Lodi
+Piacenza,Cremona
+Piacenza,Alessandria
+Piacenza,Pavia
+Piacenza,Genoa
+Piacenza,Parma
+Parma,Cremona
+Parma,Mantua
+Parma,Piacenza
+Parma,Genoa
+Parma,La Spezia
+Parma,Massa-Carrara
+Parma,Reggio nell'Emilia
+Reggio nell'Emilia,Mantua
+Reggio nell'Emilia,Parma
+Reggio nell'Emilia,Massa-Carrara
+Reggio nell'Emilia,Modena
+Reggio nell'Emilia,Lucca
+Modena,Mantua
+Modena,Reggio nell'Emilia
+Modena,Ferrara
+Modena,Lucca
+Modena,Bologna
+Modena,Pistoia
+Savona,Asti
+Savona,Imperia
+Savona,Cuneo
+Savona,Alessandria
+Savona,Genoa
+Imperia,Savona
+Imperia,Cuneo
+Imperia,Oristano
+Genoa,Savona
+Genoa,Alessandria
+Genoa,Piacenza
+Genoa,Parma
+Genoa,La Spezia
+La Spezia,Genoa
+La Spezia,Massa-Carrara
+La Spezia,Parma
+Massa-Carrara,La Spezia
+Massa-Carrara,Parma
+Massa-Carrara,Reggio nell'Emilia
+Massa-Carrara,Lucca
+Lucca,Massa-Carrara
+Lucca,Reggio nell'Emilia
+Lucca,Modena
+Lucca,Pistoia
+Lucca,Pisa
+Bologna,Ferrara
+Bologna,Modena
+Bologna,Ravenna
+Bologna,Metropolitan City of Florence
+Bologna,Prato
+Bologna,Pistoia
+Ravenna,Ferrara
+Ravenna,Bologna
+Ravenna,Metropolitan City of Florence
+Ravenna,Forlì-Cesena
+Pistoia,Modena
+Pistoia,Lucca
+Pistoia,Bologna
+Pistoia,Prato
+Pistoia,Pisa
+Pisa,Lucca
+Pisa,Livorno
+Pisa,Pistoia
+Pisa,Metropolitan City of Florence
+Pisa,Siena
+Pisa,Grosseto
+Livorno,Pisa
+Livorno,Grosseto
+Livorno,Sassari
+Grosseto,Livorno
+Grosseto,Pisa
+Grosseto,Siena
+Grosseto,Viterbo
+Grosseto,Sassari
+Metropolitan City of Florence,Bologna
+Metropolitan City of Florence,Prato
+Metropolitan City of Florence,Pisa
+Metropolitan City of Florence,Siena
+Metropolitan City of Florence,Arezzo
+Metropolitan City of Florence,Forlì-Cesena
+Metropolitan City of Florence,Ravenna
+Prato,Bologna
+Prato,Pistoia
+Prato,Metropolitan City of Florence
+Siena,Metropolitan City of Florence
+Siena,Pisa
+Siena,Arezzo
+Siena,Grosseto
+Siena,Viterbo
+Siena,Terni
+Siena,Perugia
+Arezzo,Metropolitan City of Florence
+Arezzo,Forlì-Cesena
+Arezzo,Rimini
+Arezzo,Siena
+Arezzo,Perugia
+Forlì-Cesena,Metropolitan City of Florence
+Forlì-Cesena,Ravenna
+Forlì-Cesena,Rimini
+Forlì-Cesena,Arezzo
+Rimini,Forlì-Cesena
+Rimini,Pesaro e Urbino
+Rimini,Arezzo
+Pesaro e Urbino,Rimini
+Pesaro e Urbino,Ancona
+Pesaro e Urbino,Perugia
+Perugia,Arezzo
+Perugia,Siena
+Perugia,Pesaro e Urbino
+Perugia,Ancona
+Perugia,Terni
+Perugia,Rieti
+Perugia,Macerata
+Perugia,Ascoli Piceno
+Viterbo,Siena
+Viterbo,Grosseto
+Viterbo,Terni
+Viterbo,Rieti
+Viterbo,Roma Capitale
+Viterbo,Sassari
+Viterbo,Nuoro
+Terni,Siena
+Terni,Perugia
+Terni,Viterbo
+Terni,Rieti
+Ancona,Pesaro e Urbino
+Ancona,Macerata
+Ancona,Perugia
+Macerata,Ancona
+Macerata,Perugia
+Macerata,Fermo
+Macerata,Ascoli Piceno
+Rieti,Perugia
+Rieti,Ascoli Piceno
+Rieti,Viterbo
+Rieti,Terni
+Rieti,Roma Capitale
+Rieti,L'Aquila
+Rieti,Teramo
+Ascoli Piceno,Perugia
+Ascoli Piceno,Macerata
+Ascoli Piceno,Fermo
+Ascoli Piceno,Rieti
+Ascoli Piceno,Teramo
+Fermo,Macerata
+Fermo,Ascoli Piceno
+Teramo,Ascoli Piceno
+Teramo,Rieti
+Teramo,Pescara
+Teramo,L'Aquila
+Roma Capitale,Viterbo
+Roma Capitale,Rieti
+Roma Capitale,Latina
+Roma Capitale,Frosinone
+Roma Capitale,L'Aquila
+Roma Capitale,Sassari
+Roma Capitale,Nuoro
+L'Aquila,Rieti
+L'Aquila,Teramo
+L'Aquila,Roma Capitale
+L'Aquila,Frosinone
+L'Aquila,Pescara
+L'Aquila,Chieti
+L'Aquila,Isernia
+Pescara,Teramo
+Pescara,L'Aquila
+Pescara,Chieti
+Latina,Roma Capitale
+Latina,Frosinone
+Latina,Caserta
+Latina,Nuoro
+Latina,Sud Sardegna
+Frosinone,Roma Capitale
+Frosinone,Latina
+Frosinone,L'Aquila
+Frosinone,Isernia
+Frosinone,Caserta
+Caserta,Latina
+Caserta,Frosinone
+Caserta,Isernia
+Caserta,Campobasso
+Caserta,Napoli
+Caserta,Benevento
+Isernia,Frosinone
+Isernia,L'Aquila
+Isernia,Chieti
+Isernia,Caserta
+Isernia,Campobasso
+Chieti,L'Aquila
+Chieti,Pescara
+Chieti,Isernia
+Chieti,Campobasso
+Campobasso,Chieti
+Campobasso,Isernia
+Campobasso,Foggia
+Campobasso,Benevento
+Campobasso,Caserta
+Foggia,Campobasso
+Foggia,Benevento
+Foggia,Barletta-Andria-Trani
+Foggia,Potenza
+Foggia,Avellino
+Benevento,Campobasso
+Benevento,Caserta
+Benevento,Napoli
+Benevento,Avellino
+Benevento,Foggia
+Napoli,Caserta
+Napoli,Salerno
+Napoli,Avellino
+Napoli,Benevento
+Napoli,Nuoro
+Salerno,Napoli
+Salerno,Avellino
+Salerno,Potenza
+Salerno,Sud Sardegna
+Salerno,Cagliari
+Avellino,Napoli
+Avellino,Benevento
+Avellino,Foggia
+Avellino,Salerno
+Avellino,Potenza
+Barletta-Andria-Trani,Foggia
+Barletta-Andria-Trani,Bari
+Barletta-Andria-Trani,Potenza
+Potenza,Foggia
+Potenza,Avellino
+Potenza,Barletta-Andria-Trani
+Potenza,Salerno
+Potenza,Bari
+Potenza,Matera
+Potenza,Cosenza
+Bari,Barletta-Andria-Trani
+Bari,Brindisi
+Bari,Taranto
+Bari,Matera
+Bari,Potenza
+Brindisi,Bari
+Brindisi,Lecce
+Brindisi,Taranto
+Taranto,Bari
+Taranto,Lecce
+Taranto,Brindisi
+Taranto,Matera
+Matera,Bari
+Matera,Taranto
+Matera,Potenza
+Matera,Cosenza
+Lecce,Brindisi
+Lecce,Taranto
+Cosenza,Potenza
+Cosenza,Matera
+Cosenza,Crotone
+Cosenza,Catanzaro
+Crotone,Cosenza
+Crotone,Catanzaro
+Catanzaro,Cosenza
+Catanzaro,Crotone
+Catanzaro,Vibo Valentia
+Catanzaro,Reggio di Calabria
+Vibo Valentia,Catanzaro
+Vibo Valentia,Reggio di Calabria
+Reggio di Calabria,Catanzaro
+Reggio di Calabria,Vibo Valentia
+Reggio di Calabria,Messina
+Messina,Reggio di Calabria
+Messina,Catania
+Messina,Enna
+Messina,Palermo
+Catania,Messina
+Catania,Enna
+Catania,Caltanissetta
+Catania,Ragusa
+Catania,Siracusa
+Enna,Messina
+Enna,Catania
+Enna,Palermo
+Enna,Caltanissetta
+Palermo,Messina
+Palermo,Enna
+Palermo,Caltanissetta
+Palermo,Agrigento
+Palermo,Trapani
+Palermo,Sud Sardegna
+Palermo,Cagliari
+Caltanissetta,Catania
+Caltanissetta,Ragusa
+Caltanissetta,Enna
+Caltanissetta,Agrigento
+Caltanissetta,Palermo
+Ragusa,Catania
+Ragusa,Siracusa
+Ragusa,Caltanissetta
+Siracusa,Catania
+Siracusa,Ragusa
+Agrigento,Caltanissetta
+Agrigento,Palermo
+Agrigento,Trapani
+Trapani,Agrigento
+Trapani,Palermo
+Trapani,Sud Sardegna
+Trapani,Cagliari
+Sassari,Nuoro
+Sassari,Oristano
+Sassari,Livorno
+Sassari,Grosseto
+Sassari,Viterbo
+Sassari,Roma Capitale
+Nuoro,Sassari
+Nuoro,Oristano
+Nuoro,Sud Sardegna
+Nuoro,Viterbo
+Nuoro,Roma Capitale
+Nuoro,Latina
+Nuoro,Napoli
+Oristano,Sassari
+Oristano,Nuoro
+Oristano,Sud Sardegna
+Oristano,Imperia
+Sud Sardegna,Nuoro
+Sud Sardegna,Oristano
+Sud Sardegna,Cagliari
+Sud Sardegna,Trapani
+Sud Sardegna,Palermo
+Sud Sardegna,Salerno
+Sud Sardegna,Latina
+Cagliari,Sud Sardegna
+Cagliari,Trapani
+Cagliari,Palermo
+Cagliari,Salerno

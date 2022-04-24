@@ -1,0 +1,143 @@
+.root{
+	-firstColor: #EEEEEE;
+	
+	-secondColor: #ff7171;
+	-secondColorHOVER: #f2bdbd;
+	
+	-thirdColor: #e69a22;
+	-thirdColorHOVER: #dba44d;
+	
+	-forthColor: #0F0E0E;
+}
+	
+
+
+.vbox-left {
+	-fx-background-color: -firstColor;
+}
+
+
+
+.comboLabel {
+	-fx-font-size: 145%;
+	-fx-text-fill: black;
+}
+
+
+.label-comboLabel-selectingNow {
+	-fx-text-fill: -secondColor;
+	-fx-font-size: 145%;
+	-fx-font-weight: bold;
+}
+
+.comboLabel:hover, .label-comboLabel-selectingNow:hover {
+	-fx-cursor: hand;
+}
+
+.combo-box {
+	-fx-min-width: 180px;
+	-fx-min-height: 35px;
+	-fx-font-size: 120%;
+}
+
+.combo-box:hover {
+	-fx-cursor: hand;
+}
+
+.combo-box .list-cell {
+	-fx-background-color: -firstColor;
+	-fx-text-fill: -secondColor;
+	-fx-font-weight: bold;
+}
+
+
+.combo-box .list-cell:selected {
+	-fx-text-fill: -thirdColor;
+}
+
+
+.combo-box-base {
+	-fx-border-radius: 15px;
+	-fx-background-color: -firstColor;
+	-fx-padding: 5px;
+}
+
+
+
+.combo-box .list-view .list-cell:hover {
+	-fx-background-color: -secondColorHOVER;
+	-fx-cursor: hand;
+}
+
+.combo-box .list-view .list-cell:selected {
+	-fx-text-fill: -firstColor;
+	-fx-background-color: -secondColor;
+}
+
+
+
+
+.button-getPath {
+	-fx-min-width: 180px;
+	-fx-min-height: 50px;
+	-fx-background-radius: 20px;
+	-fx-background-color: -secondColor;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-font-size: 130%;
+}
+
+.button-getPath:hover {
+	-fx-background-color: -secondColorHOVER;
+	-fx-cursor: hand;
+}
+
+
+
+
+
+.pane-right {
+	-fx-border-width: 0 0 0 7px;
+	-fx-border-color: black;
+}
+
+
+
+.circle-province {
+	-fx-fill: red;
+	-fx-stroke: white;
+	-fx-stroke-width: 1px;
+}
+
+
+.label-onMapCityName {
+	-fx-font-weight: bold;
+}
+
+
+.textarea-path {
+	-fx-max-width: 420px;
+	-fx-border-color: -secondColor;
+}
+
+
+.label-distance {
+	-fx-font-weight: bold;
+	-fx-text-fill: #e69a22;
+}
+
+
+.button-reset {
+	-fx-min-width: 75px;
+	-fx-min-height: 20px;
+	-fx-background-radius: 10px;
+	-fx-background-color: -thirdColor;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+}
+
+
+.button-reset:hover {
+	-fx-background-color: -thirdColorHOVER;
+	-fx-cursor: hand;
+}
