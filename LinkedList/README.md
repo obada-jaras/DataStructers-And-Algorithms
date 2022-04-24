@@ -4,6 +4,3 @@
 
 
 
-INTERFACE (JavaFX)
----
-![1](https://user-images.githubusercontent.com/35347949/164984285-6deac699-198c-4346-a70d-2e2c860e7e6a.png)
