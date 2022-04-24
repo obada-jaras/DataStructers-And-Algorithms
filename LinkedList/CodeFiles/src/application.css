@@ -1,0 +1,357 @@
+.root{
+	
+	-style1-basicColor: #355c7d;
+	-style1-basicColorHover: #5a8db8;
+	-style1-secondaryColor: #f67280;
+	-style1-secondaryColorHover: #c06c84;
+	-style1-gray: #bdbdbd;
+	-style1-noteColor: #ff884b;
+	
+	
+	
+	/* 
+	-style1-basicColor: #25766d;
+	-style1-basicColorHover: #96bb7c;
+	-style1-secondaryColor: #f86e7e;
+	-style1-secondaryColorHover: #c06c84;
+	-style1-gray: #bdbdbd;
+	-style1-noteColor: #ff884b;
+	/* 
+
+	
+	
+	/*
+	-style1-basicColor: #32a2b0;
+	-style1-basicColorHover: #9fd8df;
+	-style1-secondaryColor: #ff7171;
+	-style1-secondaryColorHover: #f78a8a;
+	-style1-gray: #bdbdbd;
+	-style1-noteColor: #f3a831;
+	*/
+	
+}
+
+.button{
+	-fx-border-color: #f4f4f4;
+	-fx-border-width: 2px;
+	-fx-border-style: solid outside;
+}
+
+
+
+
+
+/*Start Page */
+
+
+.choose-label{
+	-fx-text-fill: -style1-basicColor;
+	-fx-font-weight: bold;
+	-fx-font-size: 120%;
+}
+
+.browse-button{
+	-fx-background-color: -style1-basicColor;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-background-radius: 10px;
+	-fx-pref-width: 85px;
+	-fx-pref-height: 40px;
+	-fx-font-size: 110%;
+}
+
+.browse-button:hover{
+	-fx-background-color: -style1-basicColorHover;
+	-fx-cursor: hand;
+}
+
+
+.fileName-label{
+	-fx-text-fill: -style1-secondaryColor;
+	-fx-font-weight: bold;
+	-fx-underline: true;
+	-fx-padding: 20px;
+} 
+
+.note-label{
+	-fx-text-fill: -style1-noteColor;
+	-fx-font-weight: bold;
+	-fx-font-size: 85%;
+	-fx-translate-y: 0px;
+}
+
+
+
+.noteLabels-label{
+	-fx-text-fill: -style1-basicColor;
+	-fx-font-weight: bold;
+	-fx-font-size: 85%;
+	-fx-translate-y: 0;
+}
+
+
+
+.next-button{
+	-fx-background-color: -style1-gray;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-background-radius: 7px;
+}
+
+
+
+
+/****end of Start Page*****/
+
+
+
+
+
+
+
+
+
+
+
+/*Main Page*/
+.lines-line{
+	-fx-stroke: -style1-secondaryColor;
+	-fx-stroke-width: 3px;
+}
+
+
+
+
+
+.vbox1-button{
+	-fx-background-color: -style1-basicColor;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-font-size: 90%;
+	-fx-pref-height: 35px;
+	-fx-pref-width: 75px;
+	-fx-background-radius: 0px;
+}
+
+
+.vbox1_left-button{
+	-fx-background-radius: 10px 0px 0px 10px;
+}
+
+
+.vbox1_right-button{
+	-fx-background-radius: 0px 10px 10px 0px;
+}
+
+
+
+
+
+
+.vbox2-button{
+	-fx-background-color: -style1-basicColor;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-pref-height: 35px;
+	-fx-pref-width: 150;
+	-fx-background-radius: 10px;
+}
+
+
+.vbox2-button:hover{
+	-fx-background-color: -style1-basicColorHover;
+	-fx-cursor: hand;
+}
+
+
+
+
+
+
+.labels-label{
+	-fx-text-fill: -style1-basicColor;
+	-fx-font-weight: bold;
+	-fx-font-size: 135%;
+}
+
+
+.result-label{
+	-fx-text-fill: -style1-noteColor;
+}
+
+.get-button{
+	-fx-background-color: -style1-secondaryColor;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-pref-height: 20px;
+	-fx-pref-width: 55px;
+	-fx-background-radius: 9px;
+}
+
+
+.get-button:hover{
+	-fx-background-color: -style1-secondaryColorHover;
+	-fx-cursor: hand;
+}
+
+
+
+
+.getNumPerc-button{
+	-fx-background-color: -style1-secondaryColor;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-font-size: 87%;
+	-fx-pref-height: 20px;
+	-fx-pref-width: 334px;
+	-fx-background-radius: 10px;
+}
+
+
+.getNumPerc-button:hover{
+	-fx-background-color: -style1-secondaryColorHover;
+	-fx-cursor: hand;
+}
+
+
+.numAndPerc-label{
+	-fx-text-fill: -style1-noteColor;
+	-fx-font-weight: bold;
+	-fx-font-size: 88%;
+}
+
+
+
+
+
+
+
+.hbox4-button{
+	-fx-background-color: -style1-basicColor;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-background-radius: 10px;
+	-fx-pref-height: 35px;
+	-fx-pref-width: 100px;
+}
+
+
+
+.hbox4-button:hover{
+	-fx-background-color: -style1-basicColorHover;
+	-fx-cursor: hand;
+}
+
+
+
+
+
+.up15px{
+	-fx-translate-y: -15px;
+}
+
+
+.noUpOrDown{
+	-fx-translate-y: 0px;	
+}
+
+
+/****end of Main Page****/
+
+
+
+
+
+
+
+
+
+
+/*Sup-Pages*/
+
+
+.supPage-label{
+	-fx-font-weight: bold;
+	-fx-text-fill: -style1-basicColor;
+	-fx-font-size: 120%;
+}
+
+
+.supPage-textField{
+	-fx-focus-color: -fx-control-inner-background;
+	-fx-faint-focus-color: -fx-control-inner-background;
+	
+	-fx-border-color: -style1-gray;
+	-fx-background-radius: 10px;
+	-fx-border-radius: 10px;
+}
+
+
+
+.supPage-textField:focused{
+	-fx-border-color: -style1-secondaryColor;
+	-fx-background-radius: 10px;
+	-fx-border-radius: 10px;
+}
+
+
+.supPage-button{
+	-fx-background-color: -style1-secondaryColor;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-background-radius: 10px;
+	-fx-pref-width: 100px;
+}
+
+
+.supPage-button:hover{
+	-fx-background-color: -style1-secondaryColorHover;
+	-fx-cursor: hand;
+}
+
+
+
+
+.supPage_done-button{
+	-fx-background-color: -style1-basicColor;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-background-radius: 10px;
+}
+
+.supPage_done-button:hover{
+	-fx-background-color: -style1-basicColorHover;
+	-fx-cursor: hand;
+
+}
+
+
+.top10Label-label{
+	-fx-text-fill: -style1-basicColor;
+	-fx-font-weight: bold;
+	-fx-font-size: 150%;
+}
+
+
+.studentInfo-label{
+	-fx-text-fill: -style1-secondaryColor;
+	-fx-font-weight: bold;
+	-fx-font-size: 115%;
+}
+/****end of Sup-Pages****/
+
+
+.exitPage-button{
+	-fx-background-color: -style1-secondaryColor;
+	-fx-text-fill: white;
+	-fx-font-size: 88%;
+	-fx-font-weight: bold;
+	-fx-background-radius: 10px;
+	-fx-pref-width: 180px;
+}
+
+
+.exitPage-button:hover{
+	-fx-background-color: -style1-secondaryColorHover;
+	-fx-cursor: hand;
+}
