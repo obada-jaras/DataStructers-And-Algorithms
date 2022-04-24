@@ -1,0 +1,36 @@
+.root {
+	-style1-basicColor: #ff7171;
+	-style1-basicColorHover: #f78a8a;
+}
+
+
+.label {
+	-fx-font-size: 140%;
+}
+
+
+
+
+
+.button {	
+	-fx-font-weight: bold;
+
+	-fx-pref-width: 200px;
+	-fx-pref-height: 40px;
+	-fx-background-radius: 10px;
+}
+
+
+
+
+.enabled-button {
+	-fx-background-color: -style1-basicColor;
+	-fx-text-fill: white;
+}
+
+
+
+.enabled-button:hover {
+	-fx-background-color: -style1-basicColorHover;
+	-fx-cursor: hand;
+}
